@@ -17,7 +17,7 @@ Me acompanhe nos meus estudos e projetos!</h2>
 
 ---
 
-### 📫 Onde me encontrar:
+### 
 <div align="center">
   <a href="https://www.twitch.tv/SEU_USER" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
